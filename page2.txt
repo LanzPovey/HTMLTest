@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> &#169 Lanz's Website &#169 </title>
+
+			<style  type="text/css">
+				 h3   {font-family: verdana; color:darkorchid;}
+				 body {background-color: lavender; color: rebeccapurple;}
+				 a:link    {color: palevioletred;}
+				 a:visited {color: mediumviioletred;}
+				 a:active  {color:mediumorchid;}
+			</style>
+
+		<link rel="stylesheet" href="C:\Users\User\Videos\Lanz Website\styles.css">
+	</head>
+
+	<body>
+
+                <a href= "C:\Users\User\Videos\Lanz Website\page1.html">
+                <h3> Page 1 </h3>
+                </a>
+
+		<div id="header"> 
+                        <a href= "https://www.raidenmains.com">
+			<h1 style = "font-family:helvetica; color:mediumpurple;">
+			<center> <b> ♢ Lanz </b> <i> Page 2 </i> <u> Welcome! </u> To Page 2	</center> </h1>
+		</a>
+                </div>
+
+		<div id="bodyCopy">
+			<p> <b> Date: </b> October 23rd 2021 10:51 PM - 12:00 PM </p>
+			<br>
+			<a href=  https://www.google.com">
+			<img src="https://www.google.com" width="562" height="999" alt="Test">
+			</a>
+			<br> 
+			<br>
+
+			<h2 style = "font-family:georgia; color:purple;">
+			Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing </h2>
+		</div>
+
+		<div id="footer">
+			<img src="C:\Users\User\Videos\Lanz Website\Test.png" width="256" height="256" alt="Testing ">
+
+			<h3> &nbsp;&nbsp;&nbsp;&nbsp; Testing Testing  ♢ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄) </h3>
+			<br>
+			<br>
+			<br>
+
+			<h4> <center> ♢ Testing <b> Testing </b> <i> Testing </i> <u> Testing </u> ♢ </center> </h4>
+		</div>
+	</body>
+</html>

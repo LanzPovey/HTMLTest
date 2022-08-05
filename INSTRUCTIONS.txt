@@ -1,0 +1,2 @@
+Place in this folder "Lanz Website" into the "Videos" folder in your computer.
+So make sure the directory is C:\Users\User\Videos\Lanz Website

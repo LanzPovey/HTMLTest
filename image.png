@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> &#169 Lanz's Website &#169 </title>
+
+			<style  type="text/css">
+				 h3   {font-family: verdana; color:darkorchid;}
+				 body {background-color: lavender; color: rebeccapurple;}
+				 a:link    {color: palevioletred;}
+				 a:visited {color: mediumviioletred;}
+				 a:active  {color:mediumorchid;}
+			</style>
+
+		<link rel="stylesheet" href="C:\Users\User\Videos\Lanz Website\styles.css">
+	</head>
+
+	<body>
+                <a href= "C:\Users\User\Videos\Lanz Website\page2.html">
+                <h3> Page 2 </h3>
+                </a>
+		<div id="header">
+			<h1 style = "font-family:helvetica; color:mediumpurple;">
+			<center> <b> ♢ Lanz </b> <i> Sidney </i> <u> Povey's </u> Webpage 	</center> </h1>
+		</div>
+
+		<div id="bodyCopy">
+			<p> <b> Date: </b> October 24th 2021 10:04 PM - 10:15 PM </p>
+			<br>
+			<img src="C:\Users\User\Videos\Lanz Website\Image.png" width="256" height="256" alt=" Test ">
+			<br> 
+			<br>
+
+			<h2 style = "font-family:georgia; color:purple;">
+			Test Element </h2>
+		</div>
+
+		<div id="footer">
+			<img src="C:\Users\User\Videos\Lanz Website\Test.png" width="256" height="256" Element">
+
+			<h3> &nbsp;&nbsp;&nbsp;&nbsp; ♢ Testing Spaces Line Breaks </h3>
+			<br>
+			<br>
+			<br>
+
+			<h4> <center> ♢ The <b> Test </b> <i> Test </i> <u> approves. </u> ♢ </center> </h4>
+
+		</div>
+	</body>
+</html>
